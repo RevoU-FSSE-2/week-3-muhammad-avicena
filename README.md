@@ -38,7 +38,7 @@ Interested to have collaboration ? Find me on:
 
 NB*: 
 - I don't use any CSS Framework or other library to get any component, only font & icon that have been used.
-
+<!-- 
 ## ASSIGNMENTS DETAILS 📣
 For the basic requirements of the assignments, I have fulfilled most of it and took the challenge of advanced development. Below is detailed information :
 
@@ -62,4 +62,4 @@ The project has been successfully deployed using Netlify. You can access the pro
 
 Feel free to explore the website and try out the different features. I appreciate any feedback and suggestions to further improve the user experience.
 
-Happy browsing!
+Happy browsing! -->
