@@ -1,9 +1,10 @@
-<!-- ![Header](https://github.com/RevoU-FSSE-2/week-2-muhammad-avicena/assets/49929404/a91358d9-539e-4477-99de-f61e630e9c3d) -->
+
+[![readme_header](https://github.com/muhammad-avicena/profile/assets/49929404/b7b89034-8e25-4f25-a1a2-5665aa66448c)](https://avicena.dev/)
 
 
 <h1 align="left">Fancy to see you here ! <img src="https://raw.githubusercontent.com/muhammad-avicena/profile/master/wave.gif" width="30px" height="30px" /> </h1>
 
-hi, I'm Muhammad Avicena. In today's digital age, having an online presence is essential, and a personal website serves as a platform to showcase your skills, experiences, and portfolio to the world. I have built this responsive modern personal website to highlight my work. I hope you like it !
+hi, I'm Muhammad Avicena. Currently, the website is under development. Thank you for coming !
 
 I am committed to staying up-to-date with industry trends and using the latest tools to develop innovative solutions that surpass expectations.
 Interested to have collaboration ? Find me on:
@@ -12,7 +13,7 @@ Interested to have collaboration ? Find me on:
 [![Youtube Badge](https://img.shields.io/badge/-Muhammad_Avicena-darkred?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/@MuhammadAvicena)
 [![Instagram Badge](https://img.shields.io/badge/-ryuhideaki.dev-purple?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/ryuhideaki.dev/)
 [![Gmail Badge](https://img.shields.io/badge/-cenarahmant.dev@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white)](mailto:cenarahmant.dev@gmail.com)
-
+<!-- 
 ## STRUCTURE 📰
 
 - Header
@@ -37,7 +38,7 @@ Interested to have collaboration ? Find me on:
   - Image
 
 NB*: 
-- I don't use any CSS Framework or other library to get any component, only font & icon that have been used.
+- I don't use any CSS Framework or other library to get any component, only font & icon that have been used. -->
 <!-- 
 ## ASSIGNMENTS DETAILS 📣
 For the basic requirements of the assignments, I have fulfilled most of it and took the challenge of advanced development. Below is detailed information :
