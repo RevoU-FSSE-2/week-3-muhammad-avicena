@@ -57,7 +57,6 @@ For the basic requirements of the assignments, I have fulfilled most of it and t
 - Added a grid layout and made it responsive in skills section.
 
 ## DEPLOYMENT ⚙️
-[![Netlify Status](https://api.netlify.com/api/v1/badges/25b51f31-5c41-44f4-84b3-4b1870f47e44/deploy-status)](https://app.netlify.com/sites/avicena-week2/deploys)
 
 The project has been successfully deployed using Netlify. You can access the production version of the website by following this link: [https://week2.avicena.dev](https://week2.avicena.dev).
 
