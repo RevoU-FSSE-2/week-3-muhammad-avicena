@@ -1,10 +1,7 @@
 
-[![readme_header](https://github.com/muhammad-avicena/profile/assets/49929404/b7b89034-8e25-4f25-a1a2-5665aa66448c)](https://avicena.dev/)
-
-
 <h1 align="left">Fancy to see you here ! <img src="https://raw.githubusercontent.com/muhammad-avicena/profile/master/wave.gif" width="30px" height="30px" /> </h1>
 
-hi, I'm Muhammad Avicena. Currently, the website is under development. Thank you for coming !
+hi, I'm Muhammad Avicena. In this repo, I built modern & cool website of Pokemon Go. This project is continue from previous work.
 
 I am committed to staying up-to-date with industry trends and using the latest tools to develop innovative solutions that surpass expectations.
 Interested to have collaboration ? Find me on:
@@ -13,7 +10,7 @@ Interested to have collaboration ? Find me on:
 [![Youtube Badge](https://img.shields.io/badge/-Muhammad_Avicena-darkred?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/@MuhammadAvicena)
 [![Instagram Badge](https://img.shields.io/badge/-ryuhideaki.dev-purple?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/ryuhideaki.dev/)
 [![Gmail Badge](https://img.shields.io/badge/-cenarahmant.dev@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white)](mailto:cenarahmant.dev@gmail.com)
-<!-- 
+
 ## STRUCTURE 📰
 
 - Header
@@ -21,10 +18,10 @@ Interested to have collaboration ? Find me on:
 - Main
   - Hero section
     - Hero article text
-  - About section
-    - About article text
-  - Skills section
-    - Grid
+  - News section
+    - News article text
+  - Team Go section
+    - Carousel section
   - Contact section
     - Form 
 - Footer
@@ -36,10 +33,11 @@ Interested to have collaboration ? Find me on:
 - External/Internal Source
   - Icon
   - Image
+  - Refrence Pokemon Go
 
 NB*: 
 - I don't use any CSS Framework or other library to get any component, only font & icon that have been used. -->
-<!-- 
+
 ## ASSIGNMENTS DETAILS 📣
 For the basic requirements of the assignments, I have fulfilled most of it and took the challenge of advanced development. Below is detailed information :
 
@@ -58,8 +56,8 @@ For the basic requirements of the assignments, I have fulfilled most of it and t
 
 ## DEPLOYMENT ⚙️
 
-The project has been successfully deployed using Netlify. You can access the production version of the website by following this link: [https://week2.avicena.dev](https://week2.avicena.dev).
+The project has been successfully deployed using Netlify. You can access the production version of the website by following this link: [https://pokemon.avicena.dev](https://pokemon.avicena.dev).
 
 Feel free to explore the website and try out the different features. I appreciate any feedback and suggestions to further improve the user experience.
 
-Happy browsing! -->
+Happy browsing!
