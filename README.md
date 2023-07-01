@@ -1,3 +1,4 @@
+![image](https://github.com/RevoU-FSSE-2/week-3-muhammad-avicena/assets/49929404/d736b5e8-ca37-40b9-a20a-223a66969a0b)
 
 <h1 align="left">Fancy to see you here ! <img src="https://raw.githubusercontent.com/muhammad-avicena/profile/master/wave.gif" width="30px" height="30px" /> </h1>
 
